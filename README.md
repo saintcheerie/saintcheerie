@@ -63,8 +63,16 @@ Oтнer тнαɴ тнαт, ғeel ғree тo ιɴтerαcт wιтн мe.
         <tr>
         <img src="once-upon-a-time.gif" alt="."> <img src="flower-child.gif" alt="." width="150"> <img src="blinkiesCafe-gI.gif" alt="." width="150"> <img src="finding-temptation.gif" alt=".">
           <tr>
+        <img src="blinkiesCafe-6X.gif" alt="." width=150> <img src="truthoutthere.gif" alt="." width="150"> <img src="0136-clock.gif" alt="." width="150"> <img src="insomniac.gif" alt=".">
+         <img src="pobody's-nerfect.gif" alt="."> <img src="434501b6.gif" alt="." width="150"> <img src="9b1a000d.gif" alt="." width="150"> <img src="0192-forgetmenotflower.gif" alt="." width="150">
+          <tr>
+            <img src="blinkiesCafe-2C.gif" alt="." width=150> <img src="go-green.gif" alt="."> <img src="blinkiesCafe-IS.gif" alt="." width="150"> <img src="matters-to-me.gif" alt=".">
+            <img src="once-upon-a-time.gif" alt="."> <img src="flower-child.gif" alt="." width="150"> <img src="blinkiesCafe-gI.gif" alt="." width="150"> <img src="finding-temptation.gif" alt=".">
+          <tr>
             <img src="blinkiesCafe-6X.gif" alt="." width=150> <img src="truthoutthere.gif" alt="." width="150"> <img src="0136-clockgif" alt="." width="150"> <img src="insomniac.gif" alt=".">
-            </p>
+            <img src="once-upon-a-time.gif" alt="."> <img src="flower-child.gif" alt="." width="150"> <img src="blinkiesCafe-gI.gif" alt="." width="150"> <img src="finding-temptation.gif" alt=".">
+          <tr>
+            <img src="blinkiesCafe-6X.gif" alt="." width=150> <img src="truthoutthere.gif" alt="." width="150"> 
           </td>
         </tr>
       </table>
