@@ -60,10 +60,10 @@ Oтнer тнαɴ тнαт, ғeel ғree тo ιɴтerαcт wιтн мe.
         </tr>
       </table>
       <table width="100%" style="border: 1px solid #FFA500;">
-        <tr><td style="background-color: #FFA500; color: white;"><b>‧₊˚♪ 𝄞₊˚⊹ 𝐁𝐥𝐢𝐧𝐤𝐢𝐞𝐬</b></td></tr>
         <tr>
-          <td>
-            <img src="truthoutthere.gif" alt="."> <img src="blinkiesCafe-2C.gif" alt="." width="150"> <img src="blinkiesCafe-gI.gif" alt="." width="150">
+        <img src="once-upon-a-time.gif" alt="."> <img src="flower-child.gif" alt="." width="150"> <img src="blinkiesCafe-gI.gif" alt="." width="150"> <img src="finding-temptation.gif" alt=".">
+          <tr>
+            <img src="blinkiesCafe-6X.gif" alt="." width=150> <img src="truthoutthere.gif" alt="." width="150"> <img src="0136-clockgif" alt="." width="150"> <img src="insomniac.gif" alt=".">
             </p>
           </td>
         </tr>
@@ -74,5 +74,5 @@ Oтнer тнαɴ тнαт, ғeel ғree тo ιɴтerαcт wιтн мe.
 
 <div align="center">
   <hr>
-  <p>𝐀𝐥𝐥 𝐜𝐫𝐞𝐝𝐢𝐭𝐬 𝐠𝐨𝐞𝐬 𝐭𝐨 𝐭𝐡𝐞 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐢𝐯𝐞 𝐨𝐰𝐧𝐞𝐫!!</p>
+  <p>𝐀𝐥𝐥 𝐜𝐫𝐞𝐝𝐢𝐭𝐬 𝐠𝐨𝐞𝐬 𝐭𝐨 𝐭𝐡𝐞ir 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐢𝐯𝐞 𝐨𝐰𝐧𝐞𝐫s!!</p>
 </div>
