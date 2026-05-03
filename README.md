@@ -69,7 +69,7 @@ Oтнer тнαɴ тнαт, ғeel ғree тo ιɴтerαcт wιтн мe.
             <img src="blinkiesCafe-Jl.gif" alt="." width="150"> <img src="reality-ruined-plans.gif" alt="."> <img src="quitting-time.gif" alt="." width="150"> <img src="gone-with-the-wind.gif" alt=".">
             <img src="blinkiesCafe-k3.gif" alt="." width= "150"> <img src="blinkiesCafe-9h.gif" alt="." width="150"> <img src="been-there-done-that.gif" alt="." width="150"> <img src="there-can-be-only-one.gif" alt=".">
           <tr>
-            <img src="37853sp9ugfm0h5.gif" alt="." width=150> <img src="happy-place.gif" alt="." width="150"> <img src="blinkiesCafe-2A.gif" alt="." width="150"> <img src="blinkiesCafe-vC.gif" alt="." width="150">
+            <img src="37853sp9ugfm0h5.webp" alt="." width=150> <img src="happy-place.gif" alt="." width="150"> <img src="blinkiesCafe-2A.gif" alt="." width="150"> <img src="blinkiesCafe-vC.gif" alt="." width="150">
           </td>
         </tr>
       </table>
